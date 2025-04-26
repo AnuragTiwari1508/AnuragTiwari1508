@@ -26,6 +26,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragTiwari1508&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" /> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragTiwari1508&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 🔧 Tech Stack
 
