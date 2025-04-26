@@ -23,103 +23,48 @@
 ### 🔧 Tech Stack
 
 ```ts
-<section class="py-10 bg-gray-100" id="skills-tools">
-  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <h2 class="text-3xl font-bold text-center mb-8">Skills & Tools</h2>
 
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
-      <!-- Languages -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Python</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C/C++" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">C/C++</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">JavaScript</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Dart/Flutter" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Dart/Flutter</p>
-      </div>
+### Languages
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=c&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 
-      <!-- Frontend -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">HTML</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">CSS</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">React.js</p>
-      </div>
-      <div class="text-center">
-        <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="TailwindCSS" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">TailwindCSS</p>
-      </div>
+### Frontend
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 
-      <!-- Backend -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Node.js</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Express.js</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Firebase</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">MongoDB</p>
-      </div>
+### Backend
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-      <!-- Hardware -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Arduino</p>
-      </div>
-      <div class="text-center">
-        <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-iot-internet-of-things-flat-flat-juicy-fish.png" alt="IoT Sensors" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">IoT Sensors</p>
-      </div>
+### Hardware
+- Arduino
+- Embedded Systems
+- IoT Sensors
 
-      <!-- Tools -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Git</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">VS Code</p>
-      </div>
-      <div class="text-center">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Postman</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Figma</p>
-      </div>
+### Tools
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+- Postman
+- Figma
 
-      <!-- Cloud -->
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">Google Cloud</p>
-      </div>
-      <div class="text-center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" class="w-16 h-16 mx-auto hover:scale-110 transition"/>
-        <p class="mt-2">AWS</p>
-      </div>
-    </div>
-  </div>
-</section>
+### Cloud
+- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+- Firebase
 
+---
+
+## 📷 Screenshots
+
+| Desktop View | Mobile View |
+| :----------- | :---------- |
+| ![Desktop View](https://via.placeholder.com/600x400.png?text=Desktop+Screenshot) | ![Mobile View](https://via.placeholder.com/300x600.png?text=Mobile+Screenshot) |
+
+---
