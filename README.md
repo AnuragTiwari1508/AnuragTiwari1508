@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Hackathon Enthusiast | 🔧 Builder of Real-World Projects</h3>
-![image](https://github.com/user-attachments/assets/cae687b8-bd3b-40ec-8026-bed4b2a22410)
+  
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/2f70af3e-dc7c-456f-b71f-518ec572941b)" alt="Anurag's Tech Banner" width="600"/>
+</p>
 
 ---
 
