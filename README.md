@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Hackathon Enthusiast | 🔧 Builder of Real-World Projects</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&lines=Always+Learning+%F0%9F%93%9A;Hackathon+Ready+%F0%9F%A4%96;Tech+with+Purpose+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+![image](https://github.com/user-attachments/assets/cae687b8-bd3b-40ec-8026-bed4b2a22410)
 
 ---
 
