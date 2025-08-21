@@ -21,8 +21,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnuragTiwari1508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragTiwari1508&layout=compact&theme=tokyonight" alt="Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragTiwari1508&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+
 </p>
 
 ---
