@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Hackathon Enthusiast | 🔧 Builder of Real-World Projects</h3>
- ---
- 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
