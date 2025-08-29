@@ -9,7 +9,6 @@
   </a>
 </p>
 
----
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Tech+Enthusiast;Open+Source+Contributor&center=true&width=380&height=45">
 </p>
