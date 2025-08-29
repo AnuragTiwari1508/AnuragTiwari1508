@@ -13,12 +13,18 @@
 - 🌱 I’m learning **Python**, **Blockchain Development**, and **Embedded Systems**.
 - 👯 I’m looking to collaborate on **AI/ML**, **Blockchain**, and **IoT-based smart systems**.
 - 💬 Ask me about anything related to **hackathons, project ideas, or building real-world tech**.
-<p align="center">
-  📫 <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">LinkedIn</a> &nbsp; • &nbsp;
-  🌐 <a href="https://anurag-tiwari-portfolio.vercel.app/" target="_blank">Portfolio</a>
-</p>
-
 - ⚡ Fun fact: *I'm an overly excited student who dreams of becoming a legend in every tech field I touch.*
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://anurag-tiwari-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
