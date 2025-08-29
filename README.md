@@ -30,73 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AnuragTiwari1508&show_icons=true&theme=tokyonight&cache_seconds=600" alt="Anurag's GitHub stats" />  
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragTiwari1508&theme=tokyonight&cache_seconds=600" alt="GitHub Streak" />
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="110" viewBox="0 0 720 110" role="img" aria-label="Contribution graph">
-  <style>
-    .cell { rx:2; ry:2; stroke:#fff; stroke-width:1; }
-    .label { font: 12px "Segoe UI", Roboto, Arial; fill:#666; }
-    .title { font: bold 14px "Segoe UI", Roboto, Arial; fill:#24292f; }
-  </style>
-
-  <!-- title -->
-  <text x="8" y="16" class="title">Contributions</text>
-
-  <!-- configuration -->
-  <!-- cols = weeks, rows = days (standard GitHub: 7 rows, 52 weeks) -->
-  <!-- data is column-major: an array of weeks, each week is 7 numbers (Sunday..Saturday) -->
-  <!-- Replace the sample data below with your values -->
-  <g transform="translate(8,28)">
-    <!-- JS-like data embedded as comment for quick editing:
-      data = [
-        [0,1,3,0,2,0,0],  ...  (52 weeks)
-      ];
-    -->
-    <!-- We'll hardcode a small sample 18-week dataset for demonstration -->
-    <!-- cell size -->
-    <g id="cells">
-      <!-- GENERATED CELLS START -->
-      <!-- Week 0 -->
-      <rect class="cell" x="0"   y="0"   width="12" height="12" fill="#ebedf0"/>
-      <rect class="cell" x="0"   y="14"  width="12" height="12" fill="#c6e48b"/>
-      <rect class="cell" x="0"   y="28"  width="12" height="12" fill="#7bc96f"/>
-      <rect class="cell" x="0"   y="42"  width="12" height="12" fill="#239a3b"/>
-      <rect class="cell" x="0"   y="56"  width="12" height="12" fill="#196127"/>
-      <rect class="cell" x="0"   y="70"  width="12" height="12" fill="#ebedf0"/>
-      <rect class="cell" x="0"   y="84"  width="12" height="12" fill="#ebedf0"/>
-      <!-- Week 1 -->
-      <rect class="cell" x="16"  y="0"   width="12" height="12" fill="#ebedf0"/>
-      <rect class="cell" x="16"  y="14"  width="12" height="12" fill="#ebedf0"/>
-      <rect class="cell" x="16"  y="28"  width="12" height="12" fill="#c6e48b"/>
-      <rect class="cell" x="16"  y="42"  width="12" height="12" fill="#7bc96f"/>
-      <rect class="cell" x="16"  y="56"  width="12" height="12" fill="#7bc96f"/>
-      <rect class="cell" x="16"  y="70"  width="12" height="12" fill="#239a3b"/>
-      <rect class="cell" x="16"  y="84"  width="12" height="12" fill="#ebedf0"/>
-      <!-- ... continue for as many weeks as you want -->
-      <!-- GENERATED CELLS END -->
-    </g>
-
-    <!-- weekday labels (optional) -->
-    <text x="-6" y="10" class="label">Sun</text>
-    <text x="-6" y="24" class="label">Mon</text>
-    <text x="-6" y="38" class="label">Tue</text>
-    <text x="-6" y="52" class="label">Wed</text>
-    <text x="-6" y="66" class="label">Thu</text>
-    <text x="-6" y="80" class="label">Fri</text>
-    <text x="-6" y="94" class="label">Sat</text>
-  </g>
-
-  <!-- legend -->
-  <g transform="translate(8, 92)">
-    <text class="label" x="0" y="12">Less</text>
-    <rect x="36" y="0" width="12" height="12" rx="2" fill="#ebedf0" class="cell"/>
-    <rect x="56" y="0" width="12" height="12" rx="2" fill="#c6e48b" class="cell"/>
-    <rect x="76" y="0" width="12" height="12" rx="2" fill="#7bc96f" class="cell"/>
-    <rect x="96" y="0" width="12" height="12" rx="2" fill="#239a3b" class="cell"/>
-    <rect x="116" y="0" width="12" height="12" rx="2" fill="#196127" class="cell"/>
-    <text class="label" x="136" y="12">More</text>
-  </g>
-</svg>
-![My contributions](./contrib-graph.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuragTiwari1508&theme=react-dark&area=true&hide_border=true)
 
 </p>
 
