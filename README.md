@@ -30,7 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AnuragTiwari1508&show_icons=true&theme=tokyonight&cache_seconds=600" alt="Anurag's GitHub stats" />  
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragTiwari1508&theme=tokyonight&cache_seconds=600" alt="GitHub Streak" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragTiwari1508&theme=tokyonight&cache_seconds=600" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragTiwari1508&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </p>
 
