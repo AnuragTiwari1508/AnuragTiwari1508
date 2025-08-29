@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Tech Explorer | 💡 Hackathon Enthusiast | 🔧 Builder of Real-World Projects</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://anurag-tiwari-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Tech+Enthusiast;Open+Source+Contributor&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Tech+Enthusiast;Open+Source+Contributor;web+developer;Software+Developer&center=true&width=380&height=45">
 </p>
 
 ---
@@ -98,5 +90,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://anurag-tiwari-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
