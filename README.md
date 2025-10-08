@@ -69,8 +69,6 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT%20Sensors-00BFFF?style=for-the-badge&logo=simpleicons&logoColor=white" />
 </p>
-                <div align="right">
-               <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" height="200"/>
 
 #### 🧰 Tools
 <p align="left">
@@ -94,7 +92,7 @@
 <div align="center">
 
 <!-- Animated connection wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=gradient"/>
+<img src="https://capsule-render.vercel.app/apitype=waving&color=gradient&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=gradient"/>
 
 <p>
   <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
