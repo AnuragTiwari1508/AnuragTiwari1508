@@ -69,6 +69,8 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT%20Sensors-00BFFF?style=for-the-badge&logo=simpleicons&logoColor=white" />
 </p>
+                <div align="right">
+               <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" height="200"/>
 
 #### 🧰 Tools
 <p align="left">
@@ -87,15 +89,21 @@
 
 ---
 
-### 📫 How to reach me?
-<p align="left">
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+<!-- Animated connection wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=gradient"/>
+
+<p>
   <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://anurag-tiwari-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-</p> 
+</p>
 
 ### 💭 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 ### ⭐ Don't forget to star my repositories if you find them interesting!
