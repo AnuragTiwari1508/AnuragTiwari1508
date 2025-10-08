@@ -92,7 +92,7 @@
 <div align="center">
 
 <!-- Animated connection wave -->
-<img src="https://capsule-render.vercel.app/apitype=waving&color=gradient&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=fadeIn&fontColor=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=Let's%20Connect!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=ffffff&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29"/>
 
 <p>
   <a href="https://www.linkedin.com/in/anurag-tiwari-4b664627b/" target="_blank">
