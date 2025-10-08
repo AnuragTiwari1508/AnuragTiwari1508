@@ -36,55 +36,50 @@
 
 ---
 
-### 🔧 Tech Stack
+## 🛠️ Tech Arsenal
 
-#### 🚀 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<div align="center">
+
+### 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,dart,java,typescript&theme=dark" />
 </p>
 
-#### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+### 🎨 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
-#### 🛠️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgresql,graphql,redis&theme=dark" />
 </p>
 
-#### 🔩 Hardware
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT%20Sensors-00BFFF?style=for-the-badge&logo=simpleicons&logoColor=white" />
+### 🔧 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,vscode,postman&theme=dark" />
 </p>
 
-#### 🧰 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### 🤖 AI/ML & Blockchain
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,solidity&theme=dark" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 </p>
 
-#### ☁️ Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+### 🔩 Hardware & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-FF6B35?style=for-the-badge&logo=hackster&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB_Design-00C9A7?style=for-the-badge&logo=altium-designer&logoColor=white" />
 </p>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ### 📫 How to reach me?
@@ -96,3 +91,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
+
+### 💭 "Innovation distinguishes between a leader and a follower." - Steve Jobs
+
+⭐ Don't forget to star my repositories if you find them interesting!
