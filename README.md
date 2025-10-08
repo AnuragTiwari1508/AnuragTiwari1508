@@ -37,6 +37,7 @@
 
 ### 🔧 Tech Stack
 
+  <img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 #### 🚀 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
